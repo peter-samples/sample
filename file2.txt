@@ -2,3 +2,4 @@ new file for git
 there are something
 some new dev info
 new info
+another
